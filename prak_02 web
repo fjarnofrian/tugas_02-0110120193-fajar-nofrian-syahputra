@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>yoga travel</title>
+	</head>
+	<body>
+	    <hi style ="text-align:center;">yoga travel</hi>
+	    <img src="file:///F:/New%20folder/imgres.htm" alt="gambar yoga travel">
+		<p>kantor travel yoga berada dijalan R.A kartini no 86,lubuk sikaping,pasaman</p>
+		<p>menyediakan layanan antar jemput penumpang dan juga menerima pesanan mengantar barang sesuai alamat</p>
+		<ul>
+		    <li><a href="">cabang-cabang</a></li>
+		    <li><a href="">jadwal keberangkatan </a></li>
+		    <li><a href="">harga</a>
+		</ul>
+		
+		<div id="cabang cabang">
+		    <h3><cabang cabang>
+		        <h2><padang>
+		          <p> jln.prof.hamka,padang</p>  
+		
+		    <h2><bukit tinggi>
+		        <p>jln.simpang gadut,bukit tinggi</p>
+		      
+		      <h2><pekanbaru>
+		          <p>jln.jend,sudirman,pekanbaru</p>
+		 </div>
+		 
+		 <div id="jadwal keberangkatan">
+		     <h3><"jadwal keberangkatan">
+		  <table border="1">
+		      <thead>
+		          <tr>
+		              <th>no</th>
+		          <th>rute perjalanan</th>
+		          <th>harga</th>
+		          </tr>
+		          </thead>
+		          
+		          <tbody>
+		              <tr>
+		                  <td>1</td>
+		                  <td>pasaman-bukit tinggi</td>
+		                  <td>45.000</td>
+		              </tr>
+		              <tr>
+		                  <td>2</td>
+		                  <td>pasaman-padang</td>
+		                  <td>90.000</td>
+		              </tr>
+		              <tr>
+		                  <td>3</td>
+		                  <td>bukit tinggi-padang</td>
+		                  <td>75.000</td>
+		              </tr>    
+		              <tr>
+		                  <td>p4</td>
+		                  <td>pasaman-pekanbaru</td>
+		                  <td>150.000</td>
+		              </tr>    
+		              <tr>
+		                  <td>5</td>
+		                  <td>padang-pekanbaru</td>
+		                  <td>250.000</td>
+		              </tr>    
+		              
+		          <tbody>
+		  </div>
+		  
+		  <div id="pelayanan">
+		      <h3><pelayanan>
+		          <p>menyediakan tempat khusus bagi pengguna kursi roda</p>
+		          
+		          
+		  </div>
+	</body>
+</html>
